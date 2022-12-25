@@ -1,0 +1,24 @@
+body{
+    background-color: blueviolet;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.input-text{
+    width: 80vh;
+    height: 50vh;
+    background-color: blueviolet;
+    border: 2px solid black;
+    font-size: 5vh;
+}
+.output-text{
+    width: 80vh;
+    height: 50vh;
+    background-color: rgb(125, 22, 221);
+    border: 2px solid black;
+    font-size: 5vh;
+}
+h3{
+    font-size: 4vh;
+}
